@@ -96,7 +96,7 @@ function onPlayerStateChange(event) {
 }
 
 function togglePlayButton(play) {    
-  document.getElementById("player-icon").className = "player-icon bi " + (play ? "bi-play-circle" : "bi-pause-circle");
+  document.getElementById("player-icon").className = "player-icon bi " + (play ? "bi-pause-circle" : "bi-play-circle");
 }
 
 function toggleAudio() {
