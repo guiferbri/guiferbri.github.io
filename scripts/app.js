@@ -72,7 +72,7 @@ function configPlayer(song) {
     width: '500',
     videoId: song.videoId,
     playerVars: {
-      autoplay: 0,
+      autoplay: 1,
       loop: 1,
       start: song.start
     },
