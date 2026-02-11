@@ -1,0 +1,20 @@
+.button-icon {
+    cursor: pointer;
+}
+
+.container-table {
+    /* height: 100px; */
+    overflow-y: scroll;
+}
+
+.player-box {
+    width:150px;
+    margin:2em auto;
+    cursor:pointer;
+    cursor:hand;
+    display:none
+}
+
+.player-icon {
+    font-size: 40px;
+}
